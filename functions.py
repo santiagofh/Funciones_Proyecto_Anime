@@ -1,6 +1,7 @@
 import numpy as np # Tratamiento de datos
 import matplotlib.pyplot as plt # Graficos
 import seaborn as sns # Graficos
+import pandas as pd
 plt.style.use('ggplot')
 
 def Graficas_frecuencia(df):
